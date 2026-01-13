@@ -1,0 +1,5 @@
+nama=input("masukan nama kamu:")
+umur=input("masukan umur kamu:")
+
+print("halo",nama)
+print("umur kamu adalah",umur)
